@@ -10,3 +10,4 @@ test['sales'] = rf.predict(test[['store', 'item']])
 
 # Write test predictions using the sample_submission format
 test[['id', 'sales']].to_csv('kaggle_submission.csv', index=False)
+
