@@ -39,6 +39,8 @@ print('Sklearn LogLoss: {:.5f}'.format(log_loss(y_classification_true, y_classif
 print('Your LogLoss: {:.5f}'.format(own_logloss(y_classification_true, y_classification_pred)))
 
 ''' 
-Initial EDA 
+Initial EDA: 
+
 
 '''
+
